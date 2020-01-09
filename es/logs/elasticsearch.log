@@ -1,0 +1,18 @@
+[2020-01-08 21:49:48,570][WARN ][bootstrap                ] jvm uses the client vm, make sure to run `java` with the server vm for best performance by adding `-server` to the command line
+[2020-01-08 21:49:50,068][INFO ][node                     ] [Mogul of the Mystic Mountain] version[2.3.1], pid[2492], build[bd98092/2016-04-04T12:25:05Z]
+[2020-01-08 21:49:50,069][INFO ][node                     ] [Mogul of the Mystic Mountain] initializing ...
+[2020-01-08 21:49:51,571][INFO ][plugins                  ] [Mogul of the Mystic Mountain] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2020-01-08 21:49:51,791][INFO ][env                      ] [Mogul of the Mystic Mountain] using [1] data paths, mounts [[(C:)]], net usable_space [205gb], net total_space [465.6gb], spins? [unknown], types [NTFS]
+[2020-01-08 21:49:51,792][INFO ][env                      ] [Mogul of the Mystic Mountain] heap size [989.8mb], compressed ordinary object pointers [unknown]
+[2020-01-08 21:49:57,257][INFO ][node                     ] [Mogul of the Mystic Mountain] initialized
+[2020-01-08 21:49:57,258][INFO ][node                     ] [Mogul of the Mystic Mountain] starting ...
+[2020-01-08 21:49:59,844][INFO ][transport                ] [Mogul of the Mystic Mountain] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2020-01-08 21:49:59,950][INFO ][discovery                ] [Mogul of the Mystic Mountain] elasticsearch/cw2bgbFfT6y9OYKsytPxKg
+[2020-01-08 21:50:04,127][INFO ][cluster.service          ] [Mogul of the Mystic Mountain] new_master {Mogul of the Mystic Mountain}{cw2bgbFfT6y9OYKsytPxKg}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2020-01-08 21:50:04,290][INFO ][gateway                  ] [Mogul of the Mystic Mountain] recovered [0] indices into cluster_state
+[2020-01-08 21:50:06,032][INFO ][http                     ] [Mogul of the Mystic Mountain] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2020-01-08 21:50:06,033][INFO ][node                     ] [Mogul of the Mystic Mountain] started
+[2020-01-08 21:53:22,776][INFO ][node                     ] [Mogul of the Mystic Mountain] stopping ...
+[2020-01-08 21:53:22,923][INFO ][node                     ] [Mogul of the Mystic Mountain] stopped
+[2020-01-08 21:53:22,924][INFO ][node                     ] [Mogul of the Mystic Mountain] closing ...
+[2020-01-08 21:53:22,995][INFO ][node                     ] [Mogul of the Mystic Mountain] closed
